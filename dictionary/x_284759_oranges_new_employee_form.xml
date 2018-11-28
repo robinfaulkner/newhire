@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" extends="x_284759_oranges_new_employee_record" label="New Employee Form" max_length="40" name="x_284759_oranges_new_employee_form" type="collection"/>
+</database>

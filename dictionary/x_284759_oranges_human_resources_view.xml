@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="Human Resources View" max_length="40" name="x_284759_oranges_human_resources_view" type="collection">
+        <element label="Users" max_length="32" name="users" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="users"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="New Employee Form" language="en" table="x_284759_oranges_new_employee_form">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>New Employee Form</label>
+            <language>en</language>
+            <name>x_284759_oranges_new_employee_form</name>
+            <plural>New Employee Forms</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-28 01:30:13</sys_created_on>
+            <sys_id>eb144521dbc62300d1db560868961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Employee Form</sys_name>
+            <sys_package display_value="Oranges" source="x_284759_oranges">90bcaa39db312300d1db5608689619d4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Oranges">90bcaa39db312300d1db5608689619d4</sys_scope>
+            <sys_update_name>sys_documentation_x_284759_oranges_new_employee_form__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-28 01:30:13</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
